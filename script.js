@@ -9,7 +9,6 @@ input.addEventListener("input", () => {
 function copyText() {
   const tempInput = document.createElement("input");
   tempInput.value = output.textContent;
-  document.body.appendChild(tempInput);
   tempInput.select();
   document.execCommand("copy");
   document.body.removeChild(tempInput);
