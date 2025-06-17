@@ -19,7 +19,7 @@ A fun and interactive web app that reverses your text in real-time as you type. 
 4. Optional: copy the result with a click
 
 ## 🌐 Live Demo
-(https://lamzef-achraf.github.io/reverse-typing-simulator/)
+https://lamzef-achraf.github.io/reverse-typing-simulator/
 
 ---
 
