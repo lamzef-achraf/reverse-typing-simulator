@@ -8,9 +8,9 @@ A fun and interactive web app that reverses your text in real-time as you type. 
 - Copy button to grab the reversed version
 
 ## 💻 Tech Stack
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
+- HTML
+- CSS
+- JavaScript 
 
 ## 📦 How it works
 1. User types any text
